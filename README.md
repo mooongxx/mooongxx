@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+![pochacco](https://github.com/user-attachments/assets/fc184498-4343-4369-b047-6f1535cd2537)
+
+
 <!--
 **mooongxx/mooongxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
